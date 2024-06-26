@@ -85,3 +85,5 @@ leo run make_move 2u8 2u8 2u8 "{ r1: { c1: 1u8, c2: 0u8, c3: 0u8 }, r2: { c1: 0u
 Updated on 2024-06-10
 
 Updated on 2024-06-20
+
+Updated on 2024-06-26
